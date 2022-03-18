@@ -8,7 +8,7 @@
         "https://github.com/Tyler887/winux/releases/latest/download/linux.exe"
     ],
     "bin": [
-        "bin\\linux.exe",
+        "linux.exe",
     ],
     "checkver": "github",
     "autoupdate": {
