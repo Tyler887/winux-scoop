@@ -8,7 +8,7 @@
         "Please verify WINUX installation by running: linux --version yes",
         "uninstall-winux.ps1 ias aliased to scoop uninstall winux.",
         "update-winux.ps1 is aliased to scoop update winux.",
-        "`nPlease note that you must enable WSL and install the WSL2 kernel update: http://aka.ms/wsl2kernel"
+        "Please note that you must enable WSL and install the WSL2 kernel update: http://aka.ms/wsl2kernel"
     ],
     "url": [
         "https://github.com/Tyler887/winux/releases/download/v1.0/linux.exe"
