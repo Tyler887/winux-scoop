@@ -13,8 +13,8 @@
         "https://github.com/Tyler887/winux/releases/download/v1.0/linux.exe"
     ],
     "pre_install": [
-        "Out-File -FilePath $env:UserProfile'\uninstall-winux.ps1' -InputObject 'scoop uninstall winux'",
-        "Out-File -FilePath $env:UserProfile'\update-winux.ps1' -InputObject 'scoop update winux'"
+        "Out-File -FilePath $env:UserProfile'/uninstall-winux.ps1' -InputObject 'scoop uninstall winux'",
+        "Out-File -FilePath $env:UserProfile'/update-winux.ps1' -InputObject 'scoop update winux'"
     ],
     "bin": [
         "linux.exe",
