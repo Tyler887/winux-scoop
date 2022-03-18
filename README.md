@@ -8,5 +8,5 @@ WINUX bucket for [Scoop](https://scoop.sh), the Windows command-line installer. 
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add winux https://github.com/Tyler887/winux-scoop`. To install, do `scoop install winux/core`.
+To add this bucket, run `scoop bucket add winux https://github.com/Tyler887/winux-scoop`. To install, do `scoop install winux/winux`.
 
