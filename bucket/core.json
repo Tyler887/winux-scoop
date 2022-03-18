@@ -1,11 +1,11 @@
 {
-    "version": "latest",
+    "version": "1.0",
     "description": "WINUX",
     "homepage": "https://github.com/Tyler887/winux",
     "license": "BSD-3-Clause (kernel: GPLv2)",
     "notes": "Please verify WINUX installation by running: linux --version yes",
     "url": [
-        "https://github.com/Tyler887/winux/releases/latest/download/linux.exe"
+        "https://github.com/Tyler887/winux/releases/1.0/download/linux.exe"
     ],
     "bin": [
         "linux.exe",
