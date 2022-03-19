@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "description": "WINUX",
+    "description": "WINUX is a backwards compatiblity frontend to run Linux programs on Windows.",
     "homepage": "https://github.com/Tyler887/winux",
     "license": "BSD-3-Clause (kernel: GPLv2)",
     "hash": "2fdb590c43247f02e26555f2e8908e9a7ddee8117987fe32ae0b8a457ff75c24",
